@@ -23,7 +23,7 @@ dnj.phx = {
         "hei_prop_carrier_phone_02"
     },
     mm = 50, -- min cash
-    mx = 150, -- aax cash
+    mx = 150, -- max cash
     skl = {'easy', 'easy', 'medium'}
 }
 
